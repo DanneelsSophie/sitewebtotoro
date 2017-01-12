@@ -1,0 +1,315 @@
+
+body {
+	background-color:#B9B189; }
+
+
+h1.lu{
+    color: white;  
+ 
+    font-weight: bold;
+    font-size: 200%;
+    margin: 3% 5%;
+    padding: 10%;
+ 
+    background-image: url("../Images/fCUIuG7y4YKC3hofZ8wsj7zhCpR.jpg");
+    background-size:  100%;
+    background-repeat: no-repeat;
+    background-position: 0px 20%;
+ 
+    padding-left: 55px;
+ 
+    background-color: rgba(255,255,255,0.5);
+	border-style: ridge;
+    border-width: 5px;
+	border-color:#EB6A00;
+	text-shadow: 0px 0px 10px rgba(0, 0, 255, 1);
+}
+h1.toto{
+    color: black;  
+ 
+    font-weight: bold;
+    font-size: 200%;
+    margin: 3% 5%;
+    padding: 10%;
+ 
+    background-image: url("../Images/totoro.jpg");
+    background-size:  100%;
+    background-repeat: no-repeat;
+    background-position: 0px 20%;
+ 
+    padding-left: 55px;
+ 
+    background-color: rgba(255,255,255,0.5);
+	border-style: ridge;
+    border-width: 5px;
+	border-color:#EB6A00;
+	  text-shadow: 0px 0px 10px rgba(0, 0, 255, 1);
+}
+h1.nausi{
+    color: white;  
+ 
+    font-weight: bold;
+    font-size: 200%;
+    margin: 3% 5%;
+    padding: 10%;
+ 
+    background-image: url("../Images/nausi.jpg");
+    background-size:  100%;
+    background-repeat: no-repeat;
+    background-position: 0px 20%;
+ 
+    padding-left: 55px;
+ 
+    background-color: rgba(255,255,255,0.5);
+	border-style: ridge;
+    border-width: 5px;
+	border-color:#EB6A00;
+	  text-shadow: 0px 0px 10px rgba(0, 0, 255, 1);
+}
+h1.so{
+    color: white;  
+ 
+    font-weight: bold;
+    font-size: 200%;
+    margin: 3% 5%;
+    padding: 10%;
+ 
+    background-image: url("../Images/so.jpg");
+    background-size:  100%;
+    background-repeat: no-repeat;
+    background-position: 0px 20%;
+ 
+    padding-left: 55px;
+ 
+    background-color: rgba(255,255,255,0.5);
+	border-style: ridge;
+    border-width: 5px;
+	border-color:#EB6A00;
+	text-shadow: 0px 0px 10px rgba(0, 0, 255, 1);
+}
+video{
+	float:right;
+
+	padding-right:7%;
+
+	margin-top:2%;
+
+	width:10%;
+
+	height:10%;
+
+}
+
+video:hover {
+
+	width:1000px;
+	
+	height:500px;
+}
+p{
+    text-align: justify;
+	width:  1055px;
+	margin:2% 5%;
+	background-color:#C6C099;
+	border-radius: 10px;
+	padding:1%;
+	}
+
+p.sommaire{
+    width:1600px;
+}
+h2{	
+	background-color:#A39C70;
+	text-shadow: 0px 0px 10px #D4AF6A;
+	background-image: url("../Images/598000197.png");
+    background-repeat: no-repeat;
+    background-position: 0px 20%;
+	text-indent:2em;}
+
+#sommaire {
+	padding:0% 20%;
+	border:none;
+	box-shadow:none;
+	}
+
+
+ul#nav { 
+
+	margin: 3% 5%;
+
+
+	width : 600px; 
+
+	height : 30px;
+
+	padding : 3px;
+
+
+padding-right:50%;
+background: linear-gradient(0deg, #EB6A00, white);
+
+
+border : 1px solid black;
+
+list-style-type : none; 
+
+border-radius:5px;
+
+
+}
+
+ 
+
+ul#nav li {
+
+padding : 0 0.5em;  
+
+line-height : 30px;
+
+}
+
+
+ul#nav li {
+
+float : right;
+
+border-left : 1px dashed black;
+
+}
+ 
+
+ul#nav a {
+
+color : black;
+
+text-decoration : none;
+
+padding : 0 0.5em; 
+
+font :  0.8em "Trebuchet MS";
+
+}
+ 
+
+ul#nav a:hover { color:white;
+				background-color:black;}
+
+
+footer {
+	background-image: url("../Images/1269922791.png");
+    background-repeat: repeat-x;
+    background-size: 200px;
+    background-position: bottom;
+	text-align:center;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
+	font-weight:bold;
+	 padding: 20px 0px 80px 0px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-style: italic; 
+}
+
+
+strong{color:#AA8239;
+    text-decoration:underline;}
+	
+table{
+    
+margin:0px;padding:0px;
+box-shadow: 10px 10px 5px #606571;
+border:1px solid #000000;
+border-collapse:collapse;
+margin:auto;
+    
+}
+
+td{
+border:1px solid black;
+color:white;
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+background-color:#606571;
+}
+
+thead, tfoot {
+border:1px solid black;
+font-family:Love, sans-serif;
+font-size:2em;
+background: linear-gradient(0deg, #606571, white);
+color:white;
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 1)}
+
+td:first-child{background: linear-gradient(70deg, #606571, white);
+text-align:center;}
+
+#sommaire td:first-child{
+    
+background-image:none;
+background-color:#B9B189; 
+}
+
+#sommaire img:hover {
+width:500px;
+height:700px;
+ }
+ 
+ 
+#sommaire td{padding:30px;
+border:none;
+background-color:#B9B189; }
+
+h1.so+ul#nav{padding-left:8%;}
+
+p::first-letter{font-family:FLeur, sans-serif;
+font-size:2em;}
+h2,h3{
+font-family:Love, sans-serif;
+font-size:2em;}
+
+h3{font-size:20px;}
+
+
+
+table.description{
+position:fixed;
+right: 0;
+ top: 11.5%;
+ width: 8em;
+ margin-top: -2.5em;    
+width: 15%;
+margin: 0;
+}
+
+@font-face {
+font-family: 'Love';
+src: url('../Police/Love.eot');
+src: url('../Police/Love.otf') format('truetype'),
+     url('../Police/Love.woff') format('woff'),
+     url('../Police/Love.eot?#iefix') format('embedded-opentype'),
+     url('../Police/Love.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Fleur';
+src: url('../Police/Fleur-webfont.eot');
+src: url('../Police/Fleur-webfont.otf') format('truetype'),
+     url('../Police/Fleur-webfont.woff') format('woff'),
+     url('../Police/Fleur-webfont.eot?#iefix') format('embedded-opentype'),
+     url('../Police/Fleur-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+a:hover{color:#AA8239;}
+a{color:#606571;}
+
+h3{	
+	background-color:#A39C70;
+	text-shadow: 0px 0px 10px #D4AF6A;
+    background-position: 0px 20%;
+	border-radius:20px;
+	margin-right:60%;
+	text-align:center;}
+figure{font-style : italic; }

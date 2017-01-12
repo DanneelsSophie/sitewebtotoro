@@ -1,0 +1,35 @@
+
+body {
+	background-color: rgb(85,0,0); }
+
+img.b{width:auto;
+margin-left:300px;
+position:}
+
+#txt{
+display:block;
+height:auto;
+width:auto;
+margin-left:150px;
+margin-right:150px;
+color:white;
+background-color:rgba(255,255,255,0.3);
+font-size:30px;
+text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.8);
+box-shadow: 0px 0px 20px 5px rgb(0, 0, 0);
+border-radius: 8px;	
+position:relative;
+}
+
+
+
+a img[src$=".png"]
+{width:250px;
+margin-left:300px;}
+
+h1{
+font-size:100px;
+border : dotted thin black;
+text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.8)	}
+
+
